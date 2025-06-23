@@ -25,7 +25,7 @@ Instead of updating weights on each training example, we use mini-batches of dat
 
 ## 📊 Training and Results
 
-We trained the model on 50,000 MNIST training images and evaluated it on 10,000 test images. The architecture used was:
+Trained the model on 50,000 MNIST training images and evaluated it on 10,000 test images. The architecture used was:
 
 ### ✅ Network Configuration
 - **Input layer**: 784 neurons (28x28 pixels flattened)
